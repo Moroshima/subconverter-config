@@ -1,3 +1,5 @@
+;refer to https://wiki.metacubex.one/config/rules/ for more detail
+
 DOMAIN,clash.razord.top
 DOMAIN-SUFFIX,byr.pt
 DOMAIN-SUFFIX,njupt.edu.cn
