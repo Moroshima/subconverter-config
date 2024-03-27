@@ -2,6 +2,5 @@
 
 DOMAIN,clash.razord.top
 DOMAIN-SUFFIX,byr.pt
-DOMAIN-SUFFIX,local
 DOMAIN-SUFFIX,njupt.edu.cn
 IP-CIDR,6.6.6.6/32,no-resolve
